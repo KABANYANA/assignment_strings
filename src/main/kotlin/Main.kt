@@ -25,7 +25,7 @@ fun NameCheck(name: String) {
 fun main(args: Array<String>) {
    Chars("Akirachix")
     println(credentials("Joyeuse",20))
-    println(Length("mississippi"))
+    println("the length of the word is"+Length("mississippi"))
     NameCheck("Joyeuse")
     NameCheck("catherine")
 

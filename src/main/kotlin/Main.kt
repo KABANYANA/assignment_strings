@@ -13,7 +13,7 @@ fun Length(str: String): Int {
 }
 //function of checking if the name is mine or not
 fun NameCheck(name: String) {
-    val Name = "catherine" // replace with your own name
+    val Name = "catherine" 
     if (name == Name) {
         println("That's me!")
     } else {
